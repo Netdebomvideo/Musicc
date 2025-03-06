@@ -5,6 +5,8 @@ module.exports = {
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://debomvideo:Debom@2727@discordbot.xjlkr.mongodb.net/?retryWrites=true&w=majority",
+  spotifyClientId : "c8211e8c9aa84e74a421c36a8ce87bd1",
+  spotifyClientSecret : "8a444402cb8f4f5b8adff5dbaf367614",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
